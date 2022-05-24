@@ -39,6 +39,7 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=johannesgomez&show_icons=true&locale=en&layout=compact" alt="johannesgomez" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johannesgomez&show_icons=true&locale=en" alt="johannesgomez" /></p>
 
 [LinkedIn 💼](https://www.linkedin.com/in/johannes-gomez-fullstack/")
 [Email :e-mail:](mailto:johannes.gomez@gmail.com)
