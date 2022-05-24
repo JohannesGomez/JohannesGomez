@@ -3,6 +3,11 @@
 Full Stack Developer💻
  💪.
 
+ little more about me...
+💻 Technologies
+html5 css3 javascript react redux postgresql postgresql git git
+
+
 <!--
 **JohannesGomez/JohannesGomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
