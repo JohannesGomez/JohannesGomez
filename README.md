@@ -1,5 +1,5 @@
-### Hi there 👋
-Hola! Soy Johannes 👋
+### Hola! Soy Johannes 👋
+ 
 Full Stack Developer💻
  💪.
 
