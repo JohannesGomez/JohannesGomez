@@ -1,6 +1,6 @@
 # Hola! Soy Johannes 👋
   ### Full Stack Developer 
-  Venezolano, me fascinan las péliculas de ciencia ficción, apasionado por la programación  y la tecnología. Actualmente mi objetivo principal es dedicarme 100% a mi     perfil Full Stack Developer con la   disposición de aprender continuamente nuevas tecnologías e innovación para ir aumentando mis capacidades humanas, intelectuales y profesional. Me he capacitado en     empresas transaccionales como Empresas Polar en Venezuela. Me caracterizo por trabajar en equipos, cumplir objetivos y normas establecidos por la organización. 
+  Venezolano, me fascinan las péliculas de ciencia ficción, apasionado por la programación  y la tecnología. Actualmente mi objetivo principal es dedicarme 100% a mi     perfil Full Stack Developer con la   disposición de aprender continuamente nuevas tecnologías e innovación para ir aumentando mis capacidades humanas, intelectuales   y profesional. Me he capacitado en     empresas transaccionales como Empresas Polar en Venezuela. Me caracterizo por trabajar en equipos, cumplir objetivos y normas   establecidos por la organización. 
   Siempre a la Disposición para cualquier Reto! 💪.
   
 
