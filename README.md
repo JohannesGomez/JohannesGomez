@@ -6,7 +6,7 @@ Full Stack Developer💻
 ## Un poco mas sobre mi... 
 
 ### Habilidades Tecnologicas
-### :computer: Tecnologicas
+### :computer: Tecnologias
 <p width='40%' height="100%"align="left"> 
    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=40&color=currentColor" alt="html5"             width="40" height="40"/> </a>   
    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=40&color=currentColor" alt="css3"         width="40" height="40"/> </a>
@@ -28,8 +28,17 @@ Full Stack Developer💻
 •	Metodología : SCRUM.
 •	Control de Versión: Git & GitHub
 
+### :dart: Como contactarme:
+<p>
+      <a href="https://www.linkedin.com/in/johannes-gomez-fullstack/">
+         <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="María Belén Alaye LinkedIn Profile" height="30" width="30">
+      </a>   
+      <a align='right' href="mailto:johannes.gomez@gmail.com">
+         <img alt="Email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="30"/>
+      </a>  
+</p>
 
-<!--
+
 **JohannesGomez/JohannesGomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
