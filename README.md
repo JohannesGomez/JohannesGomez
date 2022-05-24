@@ -3,9 +3,9 @@
 Full Stack Developer💻
  💪.
 
-## A little more about me... 
+## Un poco mas sobre mi... 
 
-### Technologies
+### Habilidades Technologies
 ### :computer: Technologies
 <p width='40%' height="100%"align="left"> 
    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=40&color=currentColor" alt="html5"             width="40" height="40"/> </a>   
@@ -20,6 +20,13 @@ Full Stack Developer💻
    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
+•	Lenguaje de Programación: Java-Script.
+•	Tecnologías Web : HTML, CSS,  NodeJS.
+•	Base de Datos: PostgreSQL.
+•	Marcos y Librerías: ReactJS, Redux, Express y Sequelize.
+•	Administración de Proyectos: Trello, Sclack.
+•	Metodología : SCRUM.
+•	Control de Versión: Git & GitHub
 
 
 <!--
