@@ -1,4 +1,6 @@
 ### Hola! Soy Johannes 👋
+ <h3 align="center"Venezolano, me fascina las péliculas de ciencia ficción y la tecnología. Actualmente mi objetivo principal es dedicarme 100% a mi perfil Full Stack Developer con la disposición de aprender continuamente nuevas tecnologías e innovación para ir aumentando mis capacidades humanas, intelectuales y profesional!!</h3>
+
  
 Full Stack Developer💻
  💪.
