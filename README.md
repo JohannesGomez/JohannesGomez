@@ -37,6 +37,11 @@
       <a align='right' href="mailto:johannes.gomez@gmail.com">
          <img alt="Email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="30"/>
       </a>  
+        <a align='right' href="https://api.whatsapp.com/send?phone=56984096840">
+         <img alt="Whatsapp" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/whatsapp/whatsapp-tile.svg" height="30" width="30"/>
+      </a>  
+
+  
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=johannesgomez&show_icons=true&locale=en&layout=compact" alt="johannesgomez" /></p>
