@@ -49,5 +49,3 @@
 
 
 
-[LinkedIn 💼](https://www.linkedin.com/in/johannes-gomez-fullstack/")
-[Email :e-mail:](mailto:johannes.gomez@gmail.com)
